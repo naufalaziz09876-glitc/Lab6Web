@@ -1,0 +1,33 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 720px;
+  margin: 24px auto;
+  padding: 0 16px;
+  line-height: 1.6;
+  color: #1f2933;
+}
+section {
+  border: 1px solid #c9d3e0;
+  border-radius: 8px;
+  padding: 8px 16px 16px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+h1, h2 { color: #173f75; }
+h2 { font-size: 1.2rem; }
+label { display: block; margin-top: 8px; font-weight: bold; }
+input { padding: 6px 8px; font-size: 1rem; max-width: 100%; box-sizing: border-box; }
+form input { display: block; width: 100%; max-width: 360px; }
+button { padding: 8px 16px; font-size: 1rem; cursor: pointer; margin-top: 10px; }
+
+.highlight {
+  color: #173f75;
+  background-color: #e6f1ff;
+  border-left: 4px solid #3478c8;
+  padding: 12px;
+}
+.teks-besar { font-size: 1.4rem; }
+
+.selesai span { text-decoration: line-through; color: #687386; }
+li { margin-bottom: 8px; }
